@@ -58,4 +58,4 @@ If you encounter any issues with the plugin:
 
 ---
 
-**Your feedback and bug reports help us improve the plugin!**
+**Your feedback and bug reports help me improve the plugin!**
