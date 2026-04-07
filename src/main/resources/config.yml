@@ -1,0 +1,9 @@
+cancel: true
+
+alerts:
+  enabled: true
+  message: "&7[&eAntiAutoPlace&7] &c%player% is using autoplace!"
+
+punishment:
+  enabled: true
+  command: "ban-ip %player% 7d autoplace"

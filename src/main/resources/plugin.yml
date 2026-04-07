@@ -1,0 +1,9 @@
+name: AntiAutoPlace
+version: ${version}
+authors: [ jarlyy69 ]
+description: A plugin that detects players using autoplace
+main: org.jarlyy69.antiAutoPlace.Main
+api-version: '1.18'
+prefix: [ AntiAutoPlace ]
+softdepend:
+  - PlaceholderAPI
