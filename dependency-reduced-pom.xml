@@ -4,7 +4,7 @@
   <groupId>org.jarlyy69</groupId>
   <artifactId>AntiAutoPlace</artifactId>
   <name>AntiAutoPlace</name>
-  <version>2.0</version>
+  <version>1.0</version>
   <build>
     <defaultGoal>clean package</defaultGoal>
     <resources>
